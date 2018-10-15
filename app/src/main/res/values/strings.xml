@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <string name="movie_image_tag">Movie image</string>
+
+    <string name="sort_by_movies_menu">Sort By</string>
+    <string name="sort_by_popularity">Sort by popularity</string>
+    <string name="sort_by_review">Sort by review</string>
+    <string name="favorites_menu">Favorites</string>
+    <string name="error_message">An error has occurred, please check connection</string>
+    <string name="no_videos_message">No videos available</string>
+    <string name="no_reviews_message">No reviews available</string>
+    <string name="no_favorites_added">No favorites added</string>
+
+    <string name="movie_detail_name">Movie details</string>
+    <string name="videos_tag">Videos</string>
+    <string name="reviews_tag">Reviews</string>
+    <string name="overview_tag">Overview</string>
+    <string name="add_favorites_label">Add to favorites</string>
+    <string name="remove_favorites_label">Remove from favorites</string>
+
+    <string name="add_to_favorites">Added to favorites</string>
+    <string name="remove_from_favorites">Removed from favorites</string>
+    <string name="favorites_activity_title">Favorites</string>
+    <string name="favorites_icon">Favorite icon</string>
+    <string name="video_thumbnail">Video thumbnail</string>
+    <string name="star_icon">Star icon</string>
+
+    <string name="text_long">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    </string>
+</resources>
