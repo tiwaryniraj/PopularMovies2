@@ -7,9 +7,6 @@ import com.example.niraj.popularmovies2.utilities.NetworkUtils;
 import java.io.IOException;
 import java.net.URL;
 
-/**
- * Created by Simon on 14.03.2018.
- */
 
 public class FetchPopularMoviesTask extends AsyncTask<URL, Void, String>{
 
